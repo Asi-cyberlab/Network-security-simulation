@@ -123,8 +123,4 @@ The project focuses on combining **network engineering fundamentals** with **cyb
 
 This project demonstrates the implementation of a **secure and structured enterprise network**, combining both networking and cybersecurity concepts.
 
----
 
-## 🔐 asi-cyberlab
-
-✨ *Building, testing, and securing systems one project at a time.*
