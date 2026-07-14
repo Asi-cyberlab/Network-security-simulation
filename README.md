@@ -1,5 +1,4 @@
 # 🖧 Cisco Packet Tracer Network Lab
-## 🔐 asi-cyberlab Project
 
 This repository contains one of my networking projects built using Cisco Packet Tracer. I created this project to practice network design, IP addressing, routing, VLANs, and basic network security in a simulated environment.The project simulates a small company network with different departments, allowing me to learn how devices communicate securely across the network.
 
