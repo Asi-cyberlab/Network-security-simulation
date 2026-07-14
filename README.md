@@ -1,16 +1,12 @@
-# 🌐 Network Security Simulation
-
+# 🖧 Cisco Packet Tracer Network Lab
 ## 🔐 asi-cyberlab Project
 
-This project is a **network security simulation** built using Cisco Packet Tracer, demonstrating practical implementation of networking and cybersecurity concepts in a simulated enterprise environment.
+This repository contains one of my networking projects built using Cisco Packet Tracer. I created this project to practice network design, IP addressing, routing, VLANs, and basic network security in a simulated environment.The project simulates a small company network with different departments, allowing me to learn how devices communicate securely across the network.
 
 ---
 
 ## 🧪 Project Overview
-
-The network was designed to simulate a **multi-department organisation** with secure communication, segmentation, and controlled access between departments.
-
-The project focuses on combining **network engineering fundamentals** with **cybersecurity practices**.
+I created a network with multiple departments, each connected to its own network segment. The project includes basic network services, routing, and security features that I practiced during my networking studies.
 
 ---
 
@@ -118,9 +114,8 @@ The project focuses on combining **network engineering fundamentals** with **cyb
 - Basic cybersecurity architecture principles  
 
 ---
-
 ## 🚀 Conclusion
 
-This project demonstrates the implementation of a **secure and structured enterprise network**, combining both networking and cybersecurity concepts.
+This project gave me the opportunity to practice networking and basic security concepts in Cisco Packet Tracer. It helped me improve my understanding of network design, routing, VLANs, and how different technologies work together in a secure network.
 
 
