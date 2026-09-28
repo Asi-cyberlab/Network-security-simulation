@@ -1,15 +1,15 @@
-# 🖧 Cisco Packet Tracer Network Lab
+# Cisco Packet Tracer Network Lab
 
 This repository contains one of my networking projects built using Cisco Packet Tracer. I created this project to practice network design, IP addressing, routing, VLANs, and basic network security in a simulated environment.The project simulates a small company network with different departments, allowing me to learn how devices communicate securely across the network.
 
 ---
 
-## 🧪 Project Overview
+##  Project Overview
 I created a network with multiple departments, each connected to its own network segment. The project includes basic network services, routing, and security features that I practiced during my networking studies.
 
 ---
 
-## 🏢 Network Structure
+## Network Structure
 
 ### Departments:
 - Developers Network  
@@ -20,63 +20,63 @@ I created a network with multiple departments, each connected to its own network
 
 ---
 
-## 🌐 Key Features
+##  Key Features
 
-### 🔢 Subnetting
+###  Subnetting
 - Implemented using VLSM  
 - Multiple subnets created for different departments  
 - Efficient IP address allocation  
 
 ---
 
-### 📡 DHCP Configuration
+### DHCP Configuration
 - DHCP servers configured per department  
 - Automatic IP assignment verified  
 - Separate IP pools for each network segment  
 
 ---
 
-### 🌍 DNS Server
+### DNS Server
 - Central DNS server configured  
 - Users can access the web server using:http://wwwproduction.com
 - - Confirms successful name resolution  
 
 ---
 
-### 🧩 VLAN Configuration
+###  VLAN Configuration
 - VLAN 10 → Test Engineers  
 - VLAN 20 → UI Designers  
 - VLAN 30 → Shared Resources  
 
-✔ Inter-VLAN routing configured  
-✔ Controlled communication between VLANs  
+* Inter-VLAN routing configured  
+* Controlled communication between VLANs  
 
 ---
 
-### 🔒 Access Control (ACLs)
+### Access Control (ACLs)
 - Access-list implemented to restrict traffic  
 - VLAN 10 and VLAN 20 communication controlled  
 - Demonstrates network segmentation and security  
 
 ---
 
-### 🌐 NAT (Network Address Translation)
+### NAT (Network Address Translation)
 - NAT configured on router  
 - Internal private IPs translated to public IPs  
 - Verified using:
 - 
 ---
 
-### 🔁 Routing Protocols
+### Routing Protocols
 - RIP Version 2 configured  
 - OSPF configured  
 - Route redistribution implemented  
 
-✔ Backup route configured for redundancy  
+* Backup route configured for redundancy  
 
 ---
 
-### ⚠️ Security Concepts Applied
+### Security Concepts Applied
 - Network segmentation using VLANs  
 - Access control using ACLs  
 - NAT for internal network protection  
@@ -85,7 +85,7 @@ I created a network with multiple departments, each connected to its own network
 
 ---
 
-## 📂 Files
+##  Files
 
 - `network-simulation.pkt` → Cisco Packet Tracer simulation file  
 - `README.md` → Project documentation  
@@ -93,7 +93,7 @@ I created a network with multiple departments, each connected to its own network
 
 ---
 
-## 📥 How to Run the Project
+## How to Run the Project
 
 1. Download the `.pkt` file  
 2. Install Cisco Packet Tracer  
@@ -102,7 +102,7 @@ I created a network with multiple departments, each connected to its own network
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Network design and subnetting  
 - VLAN configuration and inter-VLAN routing  
@@ -113,7 +113,7 @@ I created a network with multiple departments, each connected to its own network
 - Basic cybersecurity architecture principles  
 
 ---
-## 🚀 Conclusion
+##  Conclusion
 
 This project gave me the opportunity to practice networking and basic security concepts in Cisco Packet Tracer. It helped me improve my understanding of network design, routing, VLANs, and how different technologies work together in a secure network.
 
